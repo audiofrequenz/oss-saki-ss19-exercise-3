@@ -17,6 +17,15 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/mdptoolbox/mdp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="1292" column="8" selection-start-line="1292" selection-start-column="8" selection-end-line="1292" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -58,6 +67,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -113,12 +123,12 @@
       <workItem from="1562174837439" duration="9867000" />
       <workItem from="1562264908870" duration="252000" />
       <workItem from="1562265832927" duration="677000" />
-      <workItem from="1562267010807" duration="11663000" />
+      <workItem from="1562267010807" duration="23272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22459000" />
+    <option name="totallyTimeSpent" value="34068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -156,7 +166,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/reinforcement_learning_warehouse2x2.ipynb</url>
-          <line>78</line>
+          <line>84</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
@@ -173,6 +183,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="446" selection-start-line="446" selection-end-line="446" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/mdptoolbox/mdp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1292" column="8" selection-start-line="1292" selection-start-column="8" selection-end-line="1292" selection-end-column="8" />
         </state>
       </provider>
     </entry>
