@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5232fa46-6d99-447d-8a5e-243f8ecfd360" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/reinforcement_learning_warehouse.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/oss-saki-ss19-exercise-3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oss-saki-ss19-exercise-3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reinforcement_learning_warehouse2x2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/reinforcement_learning_warehouse2x2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SAKI SS19 Homework 3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/SAKI SS19 Homework 3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reinforcement_learning_warehouse2x2.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +18,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reinforcement_learning_warehouse2x2.ipynb">
+        <entry file="file://$PROJECT_DIR$/reinforcement_learning_warehouse.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -30,6 +32,12 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>positions</find>
+      <find>len(container_positions)</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,8 +53,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="125" />
-    <option name="y" value="-8" />
+    <option name="x" value="641" />
+    <option name="y" value="-9" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -128,16 +136,18 @@
       <workItem from="1562265832927" duration="677000" />
       <workItem from="1562267010807" duration="23272000" />
       <workItem from="1562577191220" duration="6573000" />
+      <workItem from="1562585800588" duration="25254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40641000" />
+    <option name="totallyTimeSpent" value="65895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12526652" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110341154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -151,29 +161,18 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.29035753" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.38244852" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32922733" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32922733" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.80929095" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.80916846" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/reinforcement_learning_warehouse2x2.ipynb</url>
-          <line>84</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/oss_saki_ss19_exercise_3$Unnamed.coverage" NAME="oss-saki-ss19-exercise-3 Coverage Results" MODIFIED="1562263266285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
@@ -189,7 +188,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reinforcement_learning_warehouse2x2.ipynb">
+    <entry file="file://$PROJECT_DIR$/reinforcement_learning_warehouse.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/mdptoolbox/mdp.py">
